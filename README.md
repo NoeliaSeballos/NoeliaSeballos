@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Noelia/Noelia/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
